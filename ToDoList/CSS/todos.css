@@ -1,0 +1,10 @@
+li{
+  border: 2px solid red;
+}
+#special{
+  background: Yellow
+}
+.blue{
+  text-decoration: line-through;
+  color: blue;
+}
